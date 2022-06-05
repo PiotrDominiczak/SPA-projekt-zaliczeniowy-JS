@@ -1,0 +1,132 @@
+{
+	"users": [
+		{
+			"name": "Jan",
+			"email": "jan@kotek.pl",
+			"password": "123"
+		},
+		{
+			"name": "Janek",
+			"email": "janek@pies.pl",
+			"password": "1234"
+		},
+		{
+			"name": "Kuba",
+			"email": "k@k.pl",
+			"password": "121"
+		}
+	],
+
+	"rooms": [
+		{
+			"id": 1,
+			"inputName": "one",
+			"name": "Pokój unarny",
+			"beds": 1,
+			"guests": 1,
+			"price": 170,
+			"date": "",
+			"imageSrc": "http://localhost:1234/room1.2de4ec5a.jpg",
+			"description": "Cras rutrum sollicitudin nulla ac dictum. Maecenas vulputate quis augue sit amet tincidunt. Cras semper sodales nisl, eget vehicula velit aliquam tincidunt. Aenean nec pulvinar sem, vel pharetra massa. Phasellus rutrum lorem in viverra maximus. Mauris at vulputate neque, et auctor erat. Cras maximus nibh est, eget vulputate odio iaculis sed. Donec nec mi dolor. Nullam a lacus eget leo cursus interdum eu eu orci. Mauris ultrices elit a magna pulvinar, eget suscipit odio semper. Pellentesque egestas interdum tempor. Phasellus sit amet pharetra erat. Sed feugiat, nibh id bibendum ultricies, dolor metus gravida ex, in posuere nibh ex sed lectus. Fusce ac purus et elit pharetra auctor in ac nisl."
+		},
+		{
+			"id": 2,
+			"inputName": "two",
+			"name": "Pokój binarny",
+			"beds": 1,
+			"guests": 2,
+			"price": 240,
+			"date": "",
+			"imageSrc": "http://localhost:1234/room2.1a059aae.jpg",
+			"description": "They key is to have every key, the key to open every door. Every chance I get, I water the plants, Lion! Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel. You do know, you do know that they don’t want you to have lunch. I’m keeping it real with you, so what you going do is have lunch. To be successful you’ve got to work hard, to make history, simple, you’ve got to make it. Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up, I’m just getting started."
+		},
+		{
+			"id": 3,
+			"inputName": "three",
+			"name": "Pokój trójkowy",
+			"beds": 2,
+			"guests": 3,
+			"price": 290,
+			"date": "",
+			"imageSrc": "http://localhost:1234/room3.543b2a0d.jpg",
+			"description": "Bo nie upatrywał zgrozy mu pół korony. Nie mówiąc naturalnie o brykach. Łączka wymienił jego nazwisko, się lekko, wykręcił jak i zobaczył wtedy, „fotelu dentystycznym” ostatni na świecie nie zaczęła jeszcze docierać przewody? Pozostaje tylko metalowy wrota ładowni! Zrobiło się stropem hali, trzymając Łączka miał w tej sprawie windy i popłynął przed zachowały się w elektrycznych do których ani dotąd nie zajrzał. Ujścia kiedy wyrwał go dali łupnia! „ Diabli wiedzą, do niego Cały kurs ryknął jego pamięci?"
+		},
+		{
+			"id": 4,
+			"inputName": "four",
+			"name": "Pokój czwórkowy",
+			"beds": 2,
+			"guests": 4,
+			"price": 340,
+			"date": "",
+			"imageSrc": "http://localhost:1234/room4.3bce13ee.jpg",
+			"description": "Consolata sunt. Parasti in animam meam convertit. Deduxit me omnibus diebus et calix meus mortis, non loco pascuae, ibi me; animam meam convertit! Justitiae propter nomen ibi me collocavit. Super in oleo tuus, ipsa me pascuae, ibi me collocavit! Tua subsequetur me omnibus me super semitas in loco omnibus diebus vitae meae; omnibus diebus vitae caput meum: mihi deerit: in nomen suum! Nam etsi."
+		}
+	],
+
+	"treatments": [
+		{
+			"id": 1,
+			"inputName": "massage",
+			"name": "Masaż rozgrzanym monitorem",
+			"area": "back",
+			"time": 30,
+			"price": 80,
+			"imageSrc": "https://www.phillymag.com/wp-content/uploads/sites/3/2020/02/Haven-Wellness-Center-featured.jpg"
+		},
+		{
+			"id": 2,
+			"inputName": "whipping",
+			"name": "Biczowanie kablem od myszy",
+			"area": "back",
+			"time": 20,
+			"price": 70,
+			"imageSrc": "https://www.gamegear.fr/images/ggmodz_paracord_black_red.png"
+		},
+		{
+			"id": 3,
+			"inputName": "peeling",
+			"name": "Peeling odłamkami płyty CD",
+			"area": "face",
+			"time": 15,
+			"price": 50,
+			"imageSrc": "https://media.istockphoto.com/photos/-picture-id139953869?k=20&m=139953869&s=612x612&w=0&h=fwlk7hY1-w7fqs6d387X6kGQL-K9w9Q8WOmRoitZ8zI="
+		},
+		{
+			"id": 4,
+			"inputName": "pedicure",
+			"name": "Pedicure woskiem bezpośrednio z USB",
+			"area": "legs",
+			"time": 25,
+			"price": 100,
+			"imageSrc": "http://www.azzaspa.ae/wp-content/uploads/2014/12/Paraffin-Pedicure-600x281.jpg"
+		},
+		{
+			"id": 5,
+			"inputName": "manicure",
+			"name": "Manicure analogowo-cyfrowy",
+			"area": "hands",
+			"time": 45,
+			"price": 150,
+			"imageSrc": "https://sc04.alicdn.com/kf/H6d74f71bfe7f477f88483c4b4c7f4d21q.png"
+		},
+		{
+			"id": 6,
+			"inputName": "bath",
+			"name": "Kąpiel w gorącej kawie",
+			"area": "body",
+			"time": 60,
+			"price": 200,
+			"imageSrc": "https://s3-eu-west-1.amazonaws.com/video.gallereplay.com/artistarea/Young%20Woman%20Taking%20a%20Bath%20in%20Coffee%20Cup_616084a2-90c8-4a8b-92b0-6eb314abf7ce/Cinemagraph_watermark_purchasepage/2_large_files/cinemagraph.jpg"
+		},
+		{
+			"id": 7,
+			"inputName": "epilation",
+			"name": "Depilacja dyskiem twardym",
+			"area": "body",
+			"time": 45,
+			"price": 120,
+			"imageSrc": "https://easywaxing.pl/wp-content/uploads/2022/03/Depilacja-a-podraznienia.jpg"
+		}
+	]
+}
